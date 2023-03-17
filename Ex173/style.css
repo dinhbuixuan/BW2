@@ -1,0 +1,36 @@
+p {
+    color: red;
+    font-size: 22px;
+}
+h1 {
+    font-size: 30px;
+    color: blue;
+}
+input {
+    width: 300px;
+}
+button {
+    color: yellow;
+    background-color: rgb(221, 10, 200);
+    height: 30px;
+    width: 50px;
+}
+
+.div1 {
+    border:1px solid black;
+    padding:30px;
+    margin: 20px;
+  }
+  .div2{
+    border:2px solid black;
+    padding-left:200px solid red;
+    margin: 30px 40px;
+    background-color: blue;
+    color:white;
+  }
+  .div3{
+    border:20px solid black;
+    padding: 50px;
+    margin: 100px;
+    background-color: green;
+  }

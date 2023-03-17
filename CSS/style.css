@@ -1,0 +1,25 @@
+p {
+    color: red;
+    font-size: 100px;
+    font-style: var(color);
+    
+}
+
+h2 {
+    color: blue;
+    background-color: yellow;
+    display: inline;
+}
+#mrdinh {
+    color: red;
+    background-color: blue;
+    font-size: 50px;
+}
+h3 {
+    color: brown;
+    background-color: black;
+}
+
+.abc {
+    color: aquamarine;
+}
